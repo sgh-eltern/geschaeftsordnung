@@ -1,0 +1,61 @@
+html {
+  color: #373737;
+  /* font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif; */
+	font: 16px "Times New Roman", Times, serif;
+	font-weight: 300;
+	line-height: 1.25;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	clear: both;
+}
+
+h1 {
+  text-align: center;
+}
+
+em {
+  text-decoration: underline;
+  font-style: inherit;
+}
+
+#TOC > ul {
+  margin-left: -2.5em;
+  list-style: none;
+}
+
+#TOC > ul > li > ul > li {
+  list-style: none;
+}
+
+/* Credit: https://stackoverflow.com/a/1636635/3212907 */
+ol[type="a"] {
+  counter-reset: list;
+}
+
+ol[type="a"] > li {
+  list-style: none;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+ol[type="a"] > li:before {
+  content: counter(list, lower-alpha) ") ";
+  counter-increment: list;
+}
+
+ol[type="1"] {
+  counter-reset: list;
+  margin-left: -2.5em;
+}
+
+ol[type="1"] > li {
+  list-style: none;
+}
+
+ol[type="1"] > li:before {
+  content: "(" counter(list, decimal) ") ";
+  counter-increment: list;
+  float:left; /* https://stackoverflow.com/a/3576628/3212907 */
+  padding-right: 0.25em;
+}
