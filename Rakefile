@@ -5,7 +5,6 @@ desc "Create HTML"
 file 'geschäftsordnung.html' => ['geschäftsordnung.markdown', 'geschäftsordnung.css', 'Rakefile'] do |target|
   sh %(pandoc
          --from markdown
-         --to html
          --output #{target}
          --standalone
          --toc
