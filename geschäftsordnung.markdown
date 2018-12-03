@@ -12,7 +12,7 @@ keywords:
 - Herrenberg
 ---
 
-Aufgrund des § 57 Abs. 4 Satz 2 des Schulgesetzes für Baden-Württemberg (SchG) in der derzeit gültigen Fassung und des § 28 der Verordnung des Ministeriums für Kultus und Sport für Elternvertretungen und Pflegschaften an öffentlichen Schulen (Elternbeiratsverordnung) vom 16. Juli 1985 (K.U.U. S. 353), zuletzt geändert am 27. Juni 1998 (K.u.U. 1998 S. 144) gibt sich der Elternbeirat folgende Geschäftsordnung:
+Aufgrund des § 57 Abs. 4 Satz 2 des Schulgesetzes für Baden-Württemberg (SchG) in der derzeit gültigen Fassung und des § 28 der Verordnung des Ministeriums für Kultus und Sport für Elternvertretungen und Pflegschaften an öffentlichen Schulen (Elternbeiratsverordnung) vom 16. Juli 1985 (K.u.U. S. 353), zuletzt geändert am 27. Juni 1998 (K.u.U. 1998 S. 144), gibt sich der Elternbeirat folgende Geschäftsordnung:
 
 # 1. Abschnitt - Allgemeines
 
@@ -49,7 +49,8 @@ Er wird von Schule und Schulträger beraten und unterstützt.
 
     a) den/ die Vorsitzende(n) des Elternbeirats,
     b) dessen/deren Stellvertreter(in),
-    c) zwei Vertreter der Eltern in der Schulkonferenz und deren Stellvertreter, d) einen oder mehrere Schriftführer.
+    c) zwei Vertreter der Eltern in der Schulkonferenz und deren Stellvertreter,
+    d) einen oder mehrere Schriftführer.
 
 (2) Der Elternbeirat kann aus seiner Mitte wählen:
 
@@ -69,7 +70,7 @@ Er wird von Schule und Schulträger beraten und unterstützt.
 
 ## § 6 Vorbereitung der Wahl
 
-(1) Der geschäftsführende Elternbeirats Vorsitzende, im Falle seiner Verhinderung sein Stellvertreter, bei dessen Verhinderung der älteste, nicht verhinderte Elternvertreter in der Schulkonferenz lädt zur Wahl ein und bereitet diese vor.
+(1) Der geschäftsführende Elternbeiratsvorsitzende, im Falle seiner Verhinderung sein Stellvertreter, bei dessen Verhinderung der älteste, nicht verhinderte Elternvertreter in der Schulkonferenz lädt zur Wahl ein und bereitet diese vor.
 
 (2) Die _Einladungen müssen schriftlich ergehen_ und werden mit Hilfe der Schule erstellt. Sie können durch die Post oder durch Vermittlung des Schulleiters den Klassenelternvertretern über deren Kinder zugeleitet werden.
 
@@ -83,7 +84,7 @@ Wahlberechtigt sind _alle Mitglieder des Elternbeirats_, d.h. die Klassenelternv
 
 (1) Jeder Wahlberechtigte ist wählbar, ausgenommen die in § 26 Abs. 1 Elternbeiratsverordnung genannten Personen.
 
-(2) Niemand kann zum Vorsitzenden des Elternbeirats für mehrere Schulen des selben Schulträgers gewählt werden.
+(2) Niemand kann zum Vorsitzenden des Elternbeirats für mehrere Schulen desselben Schulträgers gewählt werden.
 
 (3) Wiederwahl ist möglich.
 
@@ -109,17 +110,17 @@ Wahlberechtigt sind _alle Mitglieder des Elternbeirats_, d.h. die Klassenelternv
 
 ## § 10 Wahlfähigkeit
 
-Der Elternbeirat ist wahlfähig, wenn _mindestens die Hälfte seiner Mitglieder_ anwesend ist. 1st die Wahlfähigkeit nicht gegeben, so ist unverzüglich zu einem Wahlgang in einer zweiten Sitzung einzuladen. In dieser Sitzung ist der Elternbeirat auch dann wahlfähig, wenn weniger als die Hälfte des Wahlberechtigten anwesend ist. Hierauf ist in der Einladung hinzuweisen.
+Der Elternbeirat ist wahlfähig, wenn _mindestens die Hälfte seiner Mitglieder_ anwesend ist. Ist die Wahlfähigkeit nicht gegeben, so ist unverzüglich zu einem Wahlgang in einer zweiten Sitzung einzuladen. In dieser Sitzung ist der Elternbeirat auch dann wahlfähig, wenn weniger als die Hälfte des Wahlberechtigten anwesend ist. Hierauf ist in der Einladung hinzuweisen.
 
 ## § 11 Wahlverfahren
 
-(1) Der Vorsitzende des Elternbeirats und sein Stellvertreter sind in dieser Reihen folge _in getrennten Wahlgängen_ zu wählen.
+(1) Der Vorsitzende des Elternbeirats und sein Stellvertreter sind in dieser Reihenfolge _in getrennten Wahlgängen_ zu wählen.
 
 (2) Die Vertreter in der Schulkonferenz und deren Stellvertreter werden _gemeinsam gewählt_. Deren Namen sind in der Reihenfolge der erreichten Stimmen dem Schulleiter mitzuteilen.
 
 (3) Die Abstimmung kann offen, d.h. durch Handzeichen, erfolgen.
 
-    a) Die Wahl muss geheim durchgeführt werden, wenn dies einer der anwesenden Wahlberechtigten fordert.
+    a) Die Wahl muss geheim durchgeführt werden, wenn dies _einer der anwesenden Wahlberechtigten fordert_.
     b) Briefwahl und eine Übertragung des Stimmrechtes sind nicht zulässig.
 
 (4) Gewählt ist, wer die meisten gültigen Stimmen erhält. Bei Stimmengleichheit wird der Wahlgang in derselben Sitzung wiederholt. Kommt auch bei der zweiten Abstimmung eine Mehrheit nicht zustande, so entscheidet das Los.
@@ -217,16 +218,16 @@ Der Elternbeiratsvorsitzende kann weitere Personen, insbesondere den Schulleiter
 (1) Vertraulichkeit
 
     a) Die _Sitzungen des Elternbeirats sind nicht öffentlich_.
-    b) Über bestimmte Beratungspunkte kann _Vertraulichkeit_ beschlossen wer den.
+    b) Über bestimmte Beratungspunkte kann _Vertraulichkeit_ beschlossen werden.
 
 (2) Anträge
 
     a) Anträge zur Tagesordnung sind bei dem Vorsitzenden des Elternbeirats schriftlich zu stellen. Sie müssen ihm _spätestens 3 Tage vor der Sitzung_ zugegangen sein.
-    b) Angelegenheiten, die nicht auf der Tagesordnung stehen, müssen in der Sitzung behandelt werden, wenn dies vor Eintritt in die Tagesordnung beschlossen wird.
+    b) Angelegenheiten, die nicht auf der Tagesordnung stehen, müssen in der Sitzung behandelt werden, wenn dies _vor Eintritt_ in die Tagesordnung beschlossen wird.
 
 (3) Beschlussfassung
 
-    a) Der Elternbeirat fasst seine Beschlüsse mit einfacher Mehrheit der gültigen abgegebenen Stimmen.
+    a) Der Elternbeirat fasst seine Beschlüsse mit _einfacher Mehrheit_ der gültigen abgegebenen Stimmen.
     b) Stimmenthaltungen werden bei der Berechnung der Mehrheit nicht mitgezählt.
     c) Bei Stimmengleichheit gilt der Antrag als _abgelehnt_.
 
@@ -240,7 +241,8 @@ Der Elternbeiratsvorsitzende kann weitere Personen, insbesondere den Schulleiter
      b) Tagesordnung
      c) Beginn der Sitzung
      d) Anträge
-     e) Beschlüsse mit Abstimmungsergebnissen bf) Ende der Sitzung
+     e) Beschlüsse mit Abstimmungsergebnissen
+     f) Ende der Sitzung
      g) Sitzungsteilnehmer
   c) Jedes Mitglied des Elternbeirats sowie der Schulleiter und der Schülersprecher erhalten eine Mehrfertigung der Niederschrift, die mindestens die Anträge und die Beschlüsse mit Abstimmungsergebnissen enthalten muss.
 
@@ -261,7 +263,7 @@ Der Elternbeirat ist beschlussfähig, wenn mindestens ein Drittel seiner Mitgli
 
 (1) Vor einer Abstimmung kann jedes Mitglied des Elternbeirats die Feststellung der Beschlussfähigkeit verlangen.
 
-(2) 1st der Elternbeirat nicht beschlussfähig, so sind die zur Abstimmung stehen den Punkte der Tagesordnung auf einer neu einzuberufenden Sitzung zu behandeln, wobei für die abermals zur Abstimmung gestellten Tagesordnungspunkte der Elternbeirat beschlussfähig ist, auch wenn weniger als ein Drittel der Mitglieder anwesend ist.
+(2) Ist der Elternbeirat nicht beschlussfähig, so sind die zur Abstimmung stehenden Punkte der Tagesordnung auf einer neu einzuberufenden Sitzung zu behandeln, wobei für die abermals zur Abstimmung gestellten Tagesordnungspunkte der Elternbeirat beschlussfähig ist, auch wenn weniger als ein Drittel der Mitglieder anwesend ist.
 
 ## § 22 Vertretung des Vorsitzenden
 
@@ -277,17 +279,17 @@ Der Sozialfonds wird vom Elternbeirat verwaltet.
 
 (2) Über die Höhe des Beitrages gibt der Elternbeirat jeweils neu zu Schuljahresbeginn eine Empfehlung.
 
-(3) Die Schule ist beim Einzug der Beitrage behilflich.
+(3) Die Schule ist beim Einzug der Beiträge behilflich.
 
 ## § 24 Zweckgebundene Verwendung
 
 (1) Soziale Verwendung
 
-Die Verwendung des Sozialfonds ist zweckgebunden und dient vorrangig der Unterstützung von bedürftigen Schülern bei gemeinsamen Schulaktivitäten (z.B. Ausflüge, Schullandheim, Schüleraustausch).
+Die Verwendung des Sozialfonds ist _zweckgebunden_ und dient _vorrangig_ der Unterstützung von bedürftigen Schülern bei gemeinsamen Schulaktivitäten (z.B. Ausflüge, Schullandheim, Schüleraustausch).
 
 (2) Rücklagen
 
-Es wird eine Rücklage von mindestens EUR 2000,00 gebildet, um eine langfristige soziale Verwendung sicherzustellen. Auf diese Rücklage darf nur zum Zwecke der sozialen Unterstützung zurückgegriffen werden.
+Es wird eine Rücklage von mindestens EUR 2000,00 gebildet, um eine langfristige soziale Verwendung sicherzustellen. _Auf diese Rücklage darf nur zum Zwecke der sozialen Unterstützung zurückgegriffen werden_.
 
 (3) Weitere Verwendung
 
@@ -299,13 +301,13 @@ Eine darüber hinausgehende Unterstützung ist nur möglich, wenn zu Beginn d
   d) die Ausgaben der Schule, soweit sie im Rahmen des Schuletats nicht zu finanzieren sind sowie
   e) die Auslagen, die bei der Arbeit des Elternbeirats und der Ausschussmitglieder entstehen.
 
-(4) Das Recht Ausgaben zu genehmigen, steht dem Elternbeiratsvorsitzenden allein bis zu EUR 200,00 pro Einzelfall zu.
+(4) Das Recht, Ausgaben zu genehmigen, steht dem Elternbeiratsvorsitzenden allein bis zu EUR 200,00 pro Einzelfall zu.
 
     Entscheidungen darüber bis EUR 800,00 - imEinzelfall - entscheiden Elternbeiratsvorsitzende(r) mit dem Kassenführer gemeinsam.
 
-    Bei höheren Ausgaben ab EUR 800,00 bis EUR 1.200,00 - im Einzelfall - ist zusätzlich die Unterschrift des Stellvertreters oder im Verhinderungsfall die Unterschrift eines der beiden Mitglieder der Schulkonferenz erforderlich
+    Bei höheren Ausgaben ab EUR 800,00 bis EUR 1.200,00 -im Einzelfall- ist zusätzlich die Unterschrift des Stellvertreters oder im Verhinderungsfall die Unterschrift eines der beiden Mitglieder der Schulkonferenz erforderlich.
 
-(5) Ausgaben, die im Einzelfall diese Beträge überschreiten, sowie Anschaffungen, von mehr als EUR 200,00 müssen vom Elternbeirat mehrheitlich genehmigt oder - erforderlichenfalls im Einzelfall - mehrheitlich nachgenehmigt werden.
+(5) Ausgaben, die im Einzelfall diese Beträge überschreiten, sowie Anschaffungen von mehr als EUR 200,00 müssen vom Elternbeirat mehrheitlich genehmigt oder -erforderlichenfalls im Einzelfall- mehrheitlich nachgenehmigt werden.
 
 ## § 25 Kassenführung
 
