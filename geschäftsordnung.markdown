@@ -3,7 +3,9 @@ title: Geschäftsordnung des Elternbeirats am Schickhardt-Gymnasium in Herrenbe
 author:
 - Dr. Ursula Teltscher-Hornung
 - Bettina Wappler
-date: 8.3.2006
+- Birgit Stämmler-Fricke
+- Steffen Uhlig
+date: 27.5.2019
 keywords:
 - Geschäftsordnung
 - Elternbeirat
@@ -269,23 +271,23 @@ Der Elternbeirat ist beschlussfähig, wenn mindestens ein Drittel seiner Mitgli
 
 Ist der Vorsitzende verhindert, so vertritt ihn sein Stellvertreter. Ist auch dieser verhindert, so geht die Vertretung auf den ältesten, nicht verhinderten Elternvertreter in der Schulkonferenz über.
 
-# 4. Abschnitt - Sozialfonds
+# 4. Abschnitt - Elternkasse
 
-## § 23 Beitragserhebung
+## § 23 Allgemeines
 
-Der Sozialfonds wird vom Elternbeirat verwaltet.
+Die Elternkasse wird vom Elternbeirat verwaltet und setzt sich zusammen aus dem Sozialfonds und der Handkasse.
 
-(1) Der Elternbeirat erhebt von den Eltern einen freiwilligen Beitrag.
+(1) Der Elternbeirat erhebt von den Eltern einen freiwilligen Beitrag zur Elternkasse.
 
 (2) Über die Höhe des Beitrages gibt der Elternbeirat jeweils neu zu Schuljahresbeginn eine Empfehlung.
 
 (3) Die Schule ist beim Einzug der Beiträge behilflich.
 
-## § 24 Zweckgebundene Verwendung
+## § 24 Verwendung
 
-(1) Soziale Verwendung
+(1) Sozialfonds
 
-Die Verwendung des Sozialfonds ist _zweckgebunden_ und dient _vorrangig_ der Unterstützung von bedürftigen Schülern bei gemeinsamen Schulaktivitäten (z.B. Ausflüge, Schullandheim, Schüleraustausch).
+Die Verwendung des Sozialfonds ist _zweckgebunden_ und dient _vorrangig_ der Unterstützung von bedürftigen Schülern bei gemeinsamen Schulaktivitäten (z.B. Ausflüge, Schullandheim, Schüleraustausch) und bei der Ausstattung bedürftiger Schüler/Schülerinnen mit Unterrichtsmaterialien.
 
 (2) Rücklagen
 
@@ -303,7 +305,7 @@ Eine darüber hinausgehende Unterstützung ist nur möglich, wenn zu Beginn d
 
 (4) Das Recht, Ausgaben zu genehmigen, steht dem Elternbeiratsvorsitzenden allein bis zu EUR 200,00 pro Einzelfall zu.
 
-    Entscheidungen darüber bis EUR 800,00 - imEinzelfall - entscheiden Elternbeiratsvorsitzende(r) mit dem Kassenführer gemeinsam.
+    Entscheidungen darüber bis EUR 800,00 - im Einzelfall - entscheiden Elternbeiratsvorsitzende(r) mit dem Kassenführer gemeinsam.
 
     Bei höheren Ausgaben ab EUR 800,00 bis EUR 1.200,00 -im Einzelfall- ist zusätzlich die Unterschrift des Stellvertreters oder im Verhinderungsfall die Unterschrift eines der beiden Mitglieder der Schulkonferenz erforderlich.
 
@@ -314,6 +316,10 @@ Eine darüber hinausgehende Unterstützung ist nur möglich, wenn zu Beginn d
 (1) Der Kassenführer führt die laufenden Geschäfte im Einvernehmen mit dem Elternbeiratsvorsitzenden. Zahlungsanweisungen sind gemäß § 24 (4) zu behandeln.
 
 (2) Die vom Elternbeirat bestellten beiden Kassenprüfer prüfen die Kassenführung jeweils vor der ersten Elternbeiratssitzung des laufenden Schuljahres und geben dem Elternbeirat das Ergebnis bekannt.
+
+(3) Der Sozialfonds ist eigenständiger Teil der Kasse des Vereins der Freunde des Schickhardt-Gymnasiums Herrenberg ("Freunde"), wird aber wird vom Elternbeirat verwaltet und von einem gewählten Mitglied des Elternbeirats geführt. Am Ende jeden Kalenderjahres übergibt der Kassenführer einen geprüften Kassenbericht an den Kassenführer der Freunde, ohne dabei vertrauliche Informationen zur Verwendung des Fonds offenzulegen.
+
+(4) Im Umgang mit Namen, Hintergründen usw. der Anträge für den Sozialfonds sind die Verantwortlichen zur Vertraulichkeit verpflichtet.
 
 # 5. Abschnitt - Änderungen und Inkrafttreten
 
